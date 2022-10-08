@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Gordo 🦄
+
+### I am a creative multidisciplinary professional who enjoys to be in the mix.
+### My developer soul is around building cool products with cool interfaces.
+
+I'm an entrepreneur who likes to get in the mud.
+Senior Frontend Developer & Senior Product Designer.
 
 <!--
 **gordo-labs/gordo-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
