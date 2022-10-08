@@ -2,13 +2,19 @@
 
 # Hi there, I'm Gordo 🦄
 
-### I am a creative multidisciplinary professional who enjoys to be in the mix.
-### Senior Frontend Developer & Senior Product Designer coming from the entrepreneurial world.
+### Creative <b>multidisciplinary</b> professional who enjoys to be in the mix
 
-I've always been involved with early stage startups. 
+## 🧑‍💻📱 Regarding coding:
+### Senior Frontend Developer, now focused on web3 implementations.
+### EVM Solidity developer, interested in NFTs, Identity (SSI), and Governance (DAOs and Voting)
+
+## 🔮 Regarding product:
+### Senior Product Designer and entrepreur.
+
+I've been involved with early stage startups since 2014.
 I'm used to wear many hats and understand each problem from a wide generic point of view.
 
-Currently I'm working on Collaborative and Horizontal digital arts, using NFTs as their main vehicle.
+Currently I'm working on collaborative and horizontal digital arts, using NFTs as their main vehicle.
 
 ### ✨ You can consult with me about custom NFT ideas for cool implementations ✨
 
