@@ -11,10 +11,10 @@
 ## 🔮 Regarding product:
 ### Senior Product Designer and entrepreur.
 
-I've been involved with early stage startups since 2014.
-I'm used to wear many hats and understand each problem from a wide generic point of view.
+I have been involved with early stage startups since 2014. 
+I am used to wearing many hats and understanding each problem from a broad generic point of view.
 
-Currently I'm working on collaborative and horizontal digital arts using NFTs as their main vehicle, self sovering identity implementations (SSI) and governance.
+I am currently working on collaborative and horizontal digital arts using NFTs as their primary vehicle, self sovereing identity (SSI), and governance (DAOs)
 
 ### ✨ You can consult with me about custom NFT, DAOs, and generic web3 product consultancy ✨
 #### 📩 hello@gordo.design 📩
