@@ -1,4 +1,4 @@
-![Gordo](./Background_twitter_gordo.png)
+![Gordo](./background_base.png)
 
 # Hi there, I'm Gordo 🦄
 
