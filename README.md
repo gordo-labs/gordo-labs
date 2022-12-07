@@ -14,7 +14,7 @@
 I have been involved with early stage startups since 2014. 
 I am used to wearing many hats and understanding each problem from a broad generic point of view.
 
-I am currently working on collaborative and horizontal digital arts using NFTs as their primary vehicle, self sovereing identity (SSI), and governance (DAOs)
+I am currently working on collaborative and horizontal digital arts using NFTs as their primary vehicle, research about self sovereing identity (SSI), thinking and working with DAOs regarding the future of work. 
 
-### ✨ You can consult with me about custom NFT, DAOs, and generic web3 product consultancy ✨
+### ✨ You can consult with me about custom and innovative NFT implementations, DAO organisation, and generic web3 product consultancy ✨
 #### 📩 hello@gordo.design 📩
