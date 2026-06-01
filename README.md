@@ -1,5 +1,3 @@
-![Gordo](./background_base.png)
-
 # Hi there, I'm Gordo 🦄
 
 ### Creative <b>multidisciplinary</b> professional who enjoys to be in the mix. 
